@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Feliz Cumpleaños, Amorcito!</string>
+    <string name="signature_text">Del amor de tu vida :3</string>
+    <string name="age">25</string>
 </resources>
